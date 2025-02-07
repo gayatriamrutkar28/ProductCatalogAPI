@@ -4,3 +4,5 @@
 
 # Ignore VS Code settings
 .vscode/
+# Ignore build intermediate files
+obj/
